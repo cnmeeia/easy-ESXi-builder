@@ -4,7 +4,7 @@ name: Build Docker exsi Image and Upload Artifact
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
